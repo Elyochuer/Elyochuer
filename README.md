@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elyochuer&label=Profile%20views&color=0e75b6&style=flat" alt="elyochuer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elyochuer" alt="elyochuer" /></a> </p>
-
 - 🌱 I’m currently learning **| NLP | RPA |**
 
 - 💬 Ask me about **| Python | MySQL | Web Scraping | Cobol |**
